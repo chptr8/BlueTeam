@@ -10,4 +10,4 @@ No logging and monitoring setup is complete without an alert. This is not trivia
 5. Profit.
 
 
-![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fchptr8%2FBlueTeam%2Fmain%2FSentinel%2FEmailOnSentinelIncident%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fchptr8%2FBlueTeam%2Fmain%2FSentinel%2FEmailOnSentinelIncident%2Fazuredeploy.json)
